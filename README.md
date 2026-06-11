@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-soft-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Lost In Soft Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-soft-sheets/) |
+| **Get License** | [Commercial Licensing for Lost In Soft Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-soft-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9bf2a4cf5900b8e70797c91920c190a358fdb28a2f50dcb461a1cb1e410c52a1` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
