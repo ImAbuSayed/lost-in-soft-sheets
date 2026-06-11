@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire beneath your skin
+> Drawing me closer, pulling me in
+> Every slow breath is a beautiful crime
+> Leaving the rest of the world behind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
